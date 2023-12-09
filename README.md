@@ -26,11 +26,11 @@
 </p>
 </p>
 
-<div style="margin-top: 50px;"> 
+<p align="center" style="margin-top: 50px;">
   <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=frorock&show_icons=true&locale=en" alt="frorock" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=frorock&" alt="frorock" />
   </div>
-</div>
+</p>
 
 
