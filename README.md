@@ -3,6 +3,11 @@
 <img src="https://i.ibb.co/dsNDFKG/DALL-E-2023-12-09-15-00-37-A-banner-for-a-Git-Hub-profile-in-the-radical-theme-featuring-the-name-Il.png" alt="Header" style="width: 100%;  border-radius: 10px;">
 <h3 align="center" style="color:#fe428e;">👨‍💻 A passionate student developer from France</h3>
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ </p>
+ 
 ---
 
 <p align="center" style="color:#a9fef7;">
