@@ -1,7 +1,7 @@
 #                                            Bienvenu sur mon profl Github ! 👋
 
 <img src="https://i.ibb.co/dsNDFKG/DALL-E-2023-12-09-15-00-37-A-banner-for-a-Git-Hub-profile-in-the-radical-theme-featuring-the-name-Il.png" alt="Header" style="width: 100%;  border-radius: 10px;">
-<h3 align="center" style="color:#fe428e;">👨‍💻 A passionate student developer from France</h3>
+<h3 align="center" style="color:#fe428e;">👨‍💻 A 24-year-old passionate student developer from France</h3>
 
 ---
 
