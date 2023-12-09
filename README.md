@@ -51,6 +51,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frorock&theme=radical" alt="frorock" />
 </p>
 
+---
+
 <h3 align="left" style="color:#fe428e;">📊 Language Usage:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frorock&theme=radical" alt="Iliana's Top Languages">
